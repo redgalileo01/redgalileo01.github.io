@@ -25,7 +25,7 @@ procession of Our Lady of Peñafrancia begins, opening the Peñafrancia Festival
 
 |--------|--------|---------|-----------|----------|--------|----------|
 
-| 5:0 0am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am |
+| 5:00am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am |
 
 | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am |
 
