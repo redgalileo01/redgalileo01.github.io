@@ -23,7 +23,7 @@ procession of Our Lady of Peñafrancia begins, opening the Peñafrancia Festival
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 |--------|--------|---------|-----------|----------|--------|----------|
-| 5:00am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am |
+| 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am |
 | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am |
 | | 7:00 am | 7:00 am | 7:00 am | 7:00 am | 7:00 am | 7:00 am |
 | 7:30 am | | | | | | |
