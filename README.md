@@ -13,5 +13,7 @@ Jarred Galileo C. Guazon
 - Franky
 - Brook
 - Jinbei
-  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PndB2hm32dQ?si=L8PDKTjPxZiMNisd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### ONE PIECE is a legendary high-seas quest unlike any other. Luffy is a young adventurer who has longed for a life of freedom ever since he can remember. He sets off from his small village on a perilous journey to find the legendary fabled treasure, ONE PIECE, to become King of the Pirates!
